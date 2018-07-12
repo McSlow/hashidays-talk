@@ -64,7 +64,7 @@ body {
 .step {
     position: relative;
     width: 1200px;
-    height: 1000px;
+    height: 800px;
     padding: 40px 60px;
     margin: 20px auto;
 
@@ -73,7 +73,7 @@ body {
     color: rgb(102, 102, 102);
     text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
     font-family: 'Open Sans', Arial, sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: -1px;
     line-height: 1.5;
 }
